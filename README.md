@@ -45,12 +45,6 @@ Los documentos de referencia técnica se encuentran disponibles en la carpeta [`
 - 📱 **Aplicación Móvil / Web App**: [Acceder a KODI AI Studio](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
 - 📥 **Descarga Directa / APK Android**: [Descargar KODI AI Studio APK](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
 
-**Descargar desde Releases:**
-- 📥 [APK v1.0 - GitHub Releases](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/tag/v1.0)
-- 🔵 APKPure *(Próximamente)*
-- 🟠 APTOIDE *(Próximamente)*
-- 🟡 GetJar *(Próximamente)*
-
 ### Requisitos Mínimos
 
 - **Android**: Android 8.0 (Oreo) o superior, 2 GB de memoria RAM y conexión a Internet activa.
