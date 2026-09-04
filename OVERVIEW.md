@@ -1,8 +1,9 @@
 # OVERVIEW: ¿Qué es KODI AI Studio?
 
-> **Epoch** — *"Inteligencia Artificial Accesible para Todos"*  
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> *"Inteligencia Artificial Accesible para Todos"*  
 > **Producto**: KODI AI Studio v1.0  
-> **Fundador y Creador**: Jesús Morales Rodriguez  
+> **Creador**: Jesús Morales Rodriguez  
 
 ---
 
@@ -10,9 +11,9 @@
 
 En el panorama contemporáneo de la inteligencia artificial, las herramientas disponibles suelen dividirse en dos extremos: interfaces monolíticas costosas cerradas a suscripciones rígidas con tarjetas bancarias internacionales, o APIs fragmentadas difíciles de integrar para estudiantes, investigadores y programadores independientes.
 
-**Epoch** nace como una startup digital fundada bajo una premisa fundamental: crear un entorno de ingeniería autónomo, potente y accesible, capaz de ejecutarse con máxima fluidez tanto en dispositivos móviles Android como en navegadores web de escritorio de alto rendimiento.
+**KODI AI Studio** nace concebido y desarrollado por **Jesús Morales Rodriguez** bajo una premisa fundamental: crear un entorno de ingeniería autónomo, potente y accesible, capaz de ejecutarse con máxima fluidez tanto en dispositivos móviles Android como en navegadores web de escritorio de alto rendimiento.
 
-**KODI AI Studio** es el producto insignia de Epoch. No es simplemente un asistente de chat: es un entorno de trabajo unificado que orquesta múltiples modelos de última generación, ejecuta y audita código en tiempo real, verifica información web en vivo mediante Tavily AI y facilita pagos descentralizados en USDT (red BEP20).
+No es simplemente un asistente de chat: es un entorno de trabajo unificado que orquesta múltiples modelos de última generación, ejecuta y audita código en tiempo real, verifica información web en vivo mediante Tavily AI y facilita pagos descentralizados en USDT (red BEP20).
 
 ---
 
@@ -28,7 +29,7 @@ Consolidar a **KODI** como el copiloto autónomo de referencia para la ingenier�
 
 ## ⚡ 3. Ventajas Competitivas de KODI
 
-| Característica | Asistentes Convencionales | KODI AI Studio (Epoch) |
+| Característica | Asistentes Convencionales | KODI AI Studio |
 | :--- | :--- | :--- |
 | **Modelos Disponibles** | Monomodelo cerrado con límites opacos | Selección triple: Nova Core 2.1, Omniscient 3.0 y Max Engineering 4.5 |
 | **Velocidad de Respuesta** | Sujeta a saturación y colas lentas | Motor Groq LPUs ultrarrápido (<400ms) + Google Gemini Flash y Pro |
@@ -47,4 +48,4 @@ Consolidar a **KODI** como el copiloto autónomo de referencia para la ingenier�
 
 ---
 
-[📖 Volver al Índice Principal](../README.md) • [Siguiente: Guía de Inicio Rápido ➔](./GETTING_STARTED.md)
+[📖 Volver al Índice Principal](./README.md) • [Siguiente: Guía de Inicio Rápido ➔](./GETTING_STARTED.md)
