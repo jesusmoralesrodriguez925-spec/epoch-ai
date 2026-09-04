@@ -1,5 +1,3 @@
-```markdown
-# MODELS: Especificación y Guía de Modelos KODI
 > **KODI AI Studio by Jesús Morales Rodriguez**  
 > **Producto**: KODI AI Studio v1.0  
 > **Creador**: Jesús Morales Rodriguez  
