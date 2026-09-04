@@ -1,40 +1,65 @@
-## 🔒 1. Principios Fundamentales de Seguridad
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> **Producto**: KODI AI Studio v1.0  
+> **Creador**: Jesús Morales Rodriguez  
 
-- **Cifrado Integral en Tránsito y en Reposo**: Todas las comunicaciones entre el cliente (Web / APK Android) y los servidores de Epoch se realizan de forma obligatoria mediante canales cifrados TLS 1.3. Los datos y credenciales en reposo utilizan el estándar de cifrado AES-256.
-- **Validación Estricta de Entradas**: Cada endpoint de la API implementa esquemas declarativos tipados con la librería **Zod**, previniendo ataques de inyección SQL, Cross-Site Scripting (XSS) y manipulación de parámetros.
-- **Aislamiento de Entornos de Ejecución (Sandboxing)**: La ejecución de código en Python, JavaScript o Bash se lleva a cabo en contenedores efímeros aislados con privilegios mínimos, sin acceso a la red interna ni a las variables de entorno del sistema anfitrión.
-
----
-
-## 📜 2. Política de Privacidad (GDPR & CCPA Compliant)
-
-### 2.1 Datos que Recopilamos
-- **Información de Cuenta**: Correo electrónico, nombre de usuario configurado y fecha de registro.
-- **Métricas de Uso**: Metadatos analíticos de inferencia (tokens procesados, modelo seleccionado y marcas de tiempo) para control de cuotas por plan.
-- **Contenido de Conversaciones**: Los mensajes se procesan para inferencia en tiempo real. **Epoch NO vende, no comercializa ni utiliza el contenido de tus conversaciones para entrenar modelos públicos de inteligencia artificial**.
-
-### 2.2 Base Legal del Tratamiento
-Procesamos tus datos bajo el consentimiento explícito otorgado al iniciar sesión, y bajo la necesidad contractual para entregarte el servicio de IA solicitado (Artículo 6(1)(b) del RGPD de la Unión Europea).
+En **KODI AI Studio**, desarrollado por **Jesús Morales Rodriguez**, la protección de la privacidad, la seguridad de la información y la soberanía de los datos de cada usuario constituyen pilares de diseño innegociables.
 
 ---
 
-## ⚖️ 3. Derechos del Usuario y Eliminación de Datos (48 Horas)
+## 🛡️ 1. Políticas de Seguridad de la Información
 
-En estricto apego al Reglamento General de Protección de Datos (GDPR) de la Unión Europea y a la Ley de Privacidad del Consumidor de California (CCPA):
+### 1.1 Cifrado de Datos
+- **En Tránsito**: Todas las comunicaciones entre el cliente (web o APK Android) y el backend se realizan forzosamente mediante **TLS 1.3** con suites criptográficas modernas.
+- **En Reposo**: Las bases de datos y tokens se encuentran protegidos mediante algoritmos de cifrado de grado militar **AES-256**.
+- **Cabeceras de Protección**: Implementación completa de **Helmet** en Express (Content Security Policy, X-Frame-Options, X-Content-Type-Options y HSTS).
 
-- **Derecho de Acceso y Portabilidad**: Puedes exportar tu historial de conversaciones en cualquier momento desde el panel de Configuración.
-- **Derecho al Olvido (Eliminación Definitiva en 48 Horas)**:
-  - Tienes el derecho incondicional a solicitar la eliminación total e irreversible de tu cuenta, historial de chats, registros de pagos y metadatos asociados.
-  - La solicitud se procesa de forma directa vía soporte (`epochai210@gmail.com`), garantizando la destrucción física y lógica de los registros en un plazo máximo de **48 horas**.
-
----
-
-## 🤖 4. Aviso Legal y Responsabilidad sobre IA
-
-1. **Naturaleza Probabilística**: KODI AI Studio utiliza modelos de lenguaje probabilísticos de vanguardia. Aunque incorpora verificación web con Tavily AI y auditoría de librerías, el usuario reconoce que las respuestas generadas por IA pueden contener inexactitudes y deben ser validadas antes de desplegarse en entornos críticos de producción.
-2. **Responsabilidad del Código Generado**: El desarrollador es el responsable final de auditar, compilar y probar cualquier algoritmo o script antes de integrarlo en sus sistemas.
-3. **Autoría y Marca**: KODI AI Studio es un producto de software concebido, diseñado y desarrollado por **Jesús Morales Rodriguez** bajo la marca **Epoch**.
+### 1.2 Auditoría y Aislamiento de Código (Sandbox)
+- La ejecución de código de usuario se ejecuta en entornos sandboxed estrictamente delimitados con cuotas de memoria de proceso y límites temporales de ejecución para prevenir bucles infinitos, bifurcaciones de procesos (fork bombs) o accesos al sistema de archivos del host.
+- No se almacenan credenciales sensibles ni claves de API en el cliente. Todas las llamadas a modelos externos se realizan desde el backend a través de variables de entorno seguras.
 
 ---
 
-[⬅️ Anterior: Documentación de la API](./API.md) • [📖 Volver al Índice Principal](../README.md)
+## ⚖️ 2. Cumplimiento Normativo (GDPR y CCPA)
+
+KODI AI Studio opera en estricta conformidad con el **Reglamento General de Protección de Datos de la Unión Europea (RGPD / GDPR)** y la **California Consumer Privacy Act (CCPA)**:
+
+1. **Derecho de Acceso y Portabilidad**:
+   - Cada usuario puede descargar en cualquier momento una copia íntegra y legible por máquina de sus datos, chats y perfiles mediante la función de exportación JSON en Configuración.
+2. **Derecho de Rectificación**:
+   - Facilidad inmediata para modificar nombres, correos y preferencias desde la interfaz de usuario.
+3. **Derecho al Olvido (Eliminación en 48 Horas)**:
+   - Cualquier solicitud de eliminación de cuenta recibida a través del panel de usuario o del correo de soporte garantiza la purga física y criptográfica definitiva de todos los registros, bases de datos y copias de seguridad en un plazo máximo e improrrogable de **48 horas**.
+
+---
+
+## 🤖 3. Uso Responsable de Inteligencia Artificial
+
+- **Cero Entrenamiento con Datos de Usuarios**:
+  - Las consultas, prompts, código fuente y archivos cargados por los usuarios **NO se utilizan para entrenar, reentrenar ni afinar modelos de IA comerciales**, ni propios ni de terceros proveedores.
+- **Transparencia en Razonamiento**:
+  - Las cadenas de pensamiento técnico (Thinking Mode) se exponen de forma transparente para permitir la verificación metodológica de las respuestas proporcionadas.
+- **Veracidad de Información (Tavily Grounding)**:
+  - Para minimizar alucinaciones en hechos fácticos o librerías recientes, KODI contrasta datos en tiempo real mediante búsqueda web técnica contextualizada.
+
+---
+
+## 💳 4. Seguridad en Transacciones Criptográficas
+
+- **Pagos No Custodiales**:
+  - KODI AI Studio **NO almacena tarjetas de crédito, datos bancarios ni claves privadas de billeteras**.
+  - Los pagos de suscripciones se realizan directamente de billetera a billetera mediante contratos estándar de **USDT (BEP20)** en la Binance Smart Chain, garantizando anonimato financiero y trazabilidad pública inmutable.
+
+---
+
+## 📬 5. Contacto Legal y Reporte de Vulnerabilidades
+
+Si descubres una posible vulnerabilidad de seguridad o deseas ejercer tus derechos legales de acceso o eliminación de datos:
+
+- **Creador y Desarrollador**: Jesús Morales Rodriguez  
+- **Email de Contacto**: [support@kodi.ai](mailto:support@kodi.ai) / [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)  
+- **Plataforma**: KODI AI Studio v1.0  
+- **Respuesta de Emergencia**: Plazo máximo de atención de incidentes de seguridad: 24 horas.
+
+---
+
+[⬅️ Anterior: Documentación de la API](./API.md) • [Volver al Índice General 🏠](./README.md)
