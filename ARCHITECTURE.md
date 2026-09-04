@@ -1,3 +1,11 @@
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> **Producto**: KODI AI Studio v1.0  
+> **Creador**: Jesús Morales Rodriguez  
+
+KODI AI Studio está concebido bajo una arquitectura cliente-servidor desacoplada, reactiva y resiliente ante fallos, garantizando alta disponibilidad, baja latencia y máxima seguridad en el manejo de credenciales.
+
+---
+
 ## 🏛️ 1. Diagrama General del Sistema
 
 ```text
@@ -33,6 +41,7 @@
 |   (Omniscient 3.0)|        |   en el cliente    |      |   BEP20            |
 | • Tavily Search   |        +--------------------+      +--------------------+
 +-------------------+
+
 💻 2. Frontend: React 19 + TypeScript
 Framework: React 19 con renderizado concurrente y hooks de última generación.
 Estilos y Ergonomía: Tailwind CSS con paleta dark/light balanceada y tokens ópticos que reducen la fatiga ocular en sesiones prolongadas.
@@ -56,7 +65,7 @@ Almacenamiento Local Cifrado: Cada usuario mantiene un respaldo de sus chats dir
 Red: Binance Smart Chain (BSC - BEP20).
 Criptoactivo: USDT (Tether USD BEP20).
 Flujo de Activación:
-El usuario efectúa la transferencia de USDT a la dirección oficial de Epoch.
+El usuario efectúa la transferencia de USDT a la dirección oficial de KODI.
 Envía el hash de transacción (txHash) mediante el endpoint /api/crypto/verify-payment.
 El backend verifica la transacción contra la blockchain mediante las APIs de BSCScan/Etherscan, validando emisor, receptor, monto y confirmaciones de bloque, activando la suscripción en segundos.
 ⬅️ Anterior: Especificación de Modelos • Siguiente: Documentación de la API ➔
