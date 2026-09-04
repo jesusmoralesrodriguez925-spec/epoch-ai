@@ -1,12 +1,11 @@
-# EPOCH | Documentación KODI AI Studio
+# KODI AI Studio by Jesús Morales Rodriguez
 
 > **Slogan**: *"Inteligencia Artificial Accesible para Todos"*  
 > **Producto**: KODI AI Studio v1.0  
-> **Empresa**: Epoch  
-> **Fundador**: Jesús Morales Rodriguez  
+> **Creador**: Jesús Morales Rodriguez  
 > **Plataforma**: Web / APK Android  
 
-Bienvenido al centro oficial de documentación técnica y de usuario de **KODI AI Studio**, la plataforma de inteligencia artificial desarrollada por **Epoch**.
+Bienvenido al centro oficial de documentación técnica y de usuario de **KODI AI Studio**, desarrollado por **Jesús Morales Rodriguez**.
 
 ---
 
@@ -95,9 +94,8 @@ Accede a los documentos de referencia técnica de KODI AI Studio:
 
 - 🌐 **Sitio Web Oficial**: [https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
 - 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHub](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/tag/KODI)
-- 📧 **Email**: [epochai210@gmail.com](mailto:epochai210@gmail.com)
-- 🏢 **Empresa**: Epoch
-- 👤 **Fundador y Creador**: Jesús Morales Rodriguez
+- 📧 **Email**: [support@kodi.ai](mailto:support@kodi.ai) / [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)
+- 👤 **Creador**: Jesús Morales Rodriguez
 
 ---
 
@@ -106,10 +104,10 @@ Accede a los documentos de referencia técnica de KODI AI Studio:
 Este proyecto está bajo licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
 
 - **Desarrollado por**: Jesús Morales Rodriguez
-- **Empresa**: Epoch (Startup Digital)
+- **Creador**: Jesús Morales Rodriguez
 - **Año de fundación**: 2026
 - **Estado**: MVP v1.0 - Fase de expansión
 
 ---
 
-© 2026 Epoch AI. Todos los derechos reservados.
+© 2026 Jesús Morales Rodriguez. Todos los derechos reservados.
