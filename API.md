@@ -1,14 +1,3 @@
----
-
-### 📄 5. `API.md`
-
-```markdown
-# API: Especificación de Endpoints REST de KODI AI Studio
-
-La API de **KODI AI Studio** permite interactuar de manera programática con los motores de inferencia, el entorno de ejecución de código, la gestión de proyectos y la verificación de pagos criptográficos.
-
----
-
 ## 🔒 1. Autenticación y Cabeceras
 
 Todas las solicitudes a los endpoints de la API deben incluir las siguientes cabeceras HTTP:
