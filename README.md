@@ -93,7 +93,7 @@ Accede a los documentos de referencia técnica de KODI AI Studio:
 ## 🔗 Enlaces Importantes y Contacto
 
 - 🌐 **Sitio Web Oficial**: [https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
-- 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHu] (https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/tag/KODI)
+- 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHub] (https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/tag/KODI)
 - 📧 **Email**: [support@kodi.ai](mailto:support@kodi.ai) / [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)
 - 👤 **Creador**: Jesús Morales Rodriguez
 
