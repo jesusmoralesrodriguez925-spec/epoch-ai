@@ -1,3 +1,11 @@
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> **Producto**: KODI AI Studio v1.0  
+> **Creador**: Jesús Morales Rodriguez  
+
+KODI AI Studio incorpora tres arquitecturas complementarias diseñadas para ofrecer un equilibrio óptimo entre velocidad de ejecución, profundidad de razonamiento y ventana de contexto masiva.
+
+---
+
 ## 🔬 1. Catálogo Técnico de Modelos
 
 ### 1.1 KODI Nova Core 2.1
@@ -57,11 +65,15 @@
   │
   └── ¿Redacción general, análisis conceptual o aprendizaje?
         └── ➔ Selecciona: KODI Nova Core 2.1 (Equilibrado)
+
 🛠️ 4. Ejemplos de Prompting por Modelo
 KODI Nova Core 2.1
 Actúa como un profesor de informática teórica. Explica la diferencia entre complejidad temporal O(n log n) y O(n^2) usando una analogía visual accesible.
+
 KODI Omniscient 3.0
 Escribe un script en Bash para monitorear el uso de CPU y memoria cada 5 segundos y registrar en un archivo CSV cualquier consumo superior al 80%.
+
 KODI Max Engineering 4.5
 Analiza la siguiente arquitectura de microservicios con PostgreSQL, Redis y Docker. Identifica cuellos de botella bajo alta concurrencia y propón una estrategia de particionado horizontal (sharding) con scripts de migración.
-Siguiente: Arquitectura Técnica del Sistema ➔
+
+⬅️ Anterior: Guía de Inicio Rápido • Siguiente: Arquitectura Técnica del Sistema ➔
