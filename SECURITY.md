@@ -1,14 +1,3 @@
----
-
-### 📄 6. `SECURITY.md`
-
-```markdown
-# SECURITY: Seguridad, Privacidad y Términos de Servicio
-
-En **Epoch**, la seguridad de los datos, la soberanía de la información y el derecho inalienable a la privacidad digital constituyen pilares fundamentales en el diseño y operación de **KODI AI Studio**.
-
----
-
 ## 🔒 1. Principios Fundamentales de Seguridad
 
 - **Cifrado Integral en Tránsito y en Reposo**: Todas las comunicaciones entre el cliente (Web / APK Android) y los servidores de Epoch se realizan de forma obligatoria mediante canales cifrados TLS 1.3. Los datos y credenciales en reposo utilizan el estándar de cifrado AES-256.
