@@ -12,8 +12,6 @@ Bienvenido al centro oficial de documentación técnica y de usuario de **KODI A
 
 ## 🧭 Índice de Documentación
 
-Los documentos de referencia técnica se encuentran disponibles en la carpeta [`/docs/`](./docs/):
-
 1. [📖 README.md](./docs/README.md) - Portada, visión general y accesos directos.
 2. [🌐 OVERVIEW.md](./docs/OVERVIEW.md) - ¿Qué es KODI?, misión, visión y ventajas competitivas.
 3. [🚀 GETTING_STARTED.md](./docs/GETTING_STARTED.md) - Guía de inicio rápido, instalación y primeros pasos.
