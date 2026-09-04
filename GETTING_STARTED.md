@@ -11,7 +11,7 @@ Aprende a configurar y comenzar a utilizar **KODI AI Studio v1.0** en cuestión 
 ## 📲 1. Instalación y Acceso
 
 ### Opción A: Aplicación Móvil Android (APK Oficial)
-1. Descarga el archivo instalador oficial [`_KODI_AI_20119947.apk`](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai/releases/download/KODI/_KODI_AI_20119947.apk) disponible en la sección de [Releases de GitHub](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai/releases/tag/KODI).
+1. Descarga el archivo instalador oficial [`_KODI_AI_20119947.apk`](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) disponible en la sección de [Releases de GitHub](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/tag/KODI).
 2. En tu dispositivo Android, si es necesario, permite la instalación desde fuentes externas en **Ajustes > Seguridad > Instalar aplicaciones desconocidas**.
 3. Abre el archivo APK descargado y pulsa **Instalar**.
 4. Inicia **KODI AI Studio** desde el cajón de aplicaciones de tu móvil.
