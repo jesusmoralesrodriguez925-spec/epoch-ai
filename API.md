@@ -1,10 +1,3 @@
----
-
-### 📄 6. `API.md`
-
-```markdown
-# API: Especificación de Endpoints REST de KODI AI Studio
-
 > **KODI AI Studio by Jesús Morales Rodriguez**  
 > **Producto**: KODI AI Studio v1.0  
 > **Creador**: Jesús Morales Rodriguez  
