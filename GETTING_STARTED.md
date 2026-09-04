@@ -1,5 +1,9 @@
 # GETTING STARTED: Guía de Inicio Rápido
 
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> **Producto**: KODI AI Studio v1.0  
+> **Creador**: Jesús Morales Rodriguez  
+
 Aprende a configurar y comenzar a utilizar **KODI AI Studio v1.0** en cuestión de minutos, tanto en tu navegador web como en tu dispositivo móvil Android mediante el archivo oficial APK.
 
 ---
@@ -50,10 +54,11 @@ En el selector superior del espacio de trabajo puedes elegir entre tres motores 
 ## 💻 5. Ejemplos Prácticos de Consulta
 
 ### Ejemplo 1: Algoritmia en Python
-```text
 Implementa una función en Python que resuelva el problema de la mochila (Knapsack 0/1) con programación dinámica, comentando la complejidad temporal O(n*W).
+
 Ejemplo 2: Búsqueda Web en Vivo con Tavily
 ¿Cuáles son las novedades y mejoras de rendimiento introducidas en la versión 19 de React?
+
 Ejemplo 3: Auditoría y Optimización de Código
 Examina el siguiente componente en TypeScript y optimiza los re-renderizados innecesarios utilizando useMemo y useCallback.
-⬅️ Anterior: Visión General (OVERVIEW)
+⬅️ Anterior: Visión General (OVERVIEW) • Siguiente: Documentación Detallada de Modelos ➔
