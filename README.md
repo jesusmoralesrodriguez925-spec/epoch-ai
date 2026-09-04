@@ -41,12 +41,9 @@ Los documentos de referencia técnica se encuentran disponibles en la carpeta [`
 ## ⚡ Inicio Rápido
 
 ### Descargar KODI
-
-- 📱 **Aplicación Móvil / Web App**: [Acceder a KODI AI Studio](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
-- 📥 **Descarga Directa / APK Android**: [Descargar KODI AI Studio APK](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
+- 📱 **Aplicación Móvil / Web App**: [Descargar APK (Android)](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/download/KODI/_KODI_AI_20119947.apk) • [Acceder a la Web App](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
 
 ### Requisitos Mínimos
-
 - **Android**: Android 8.0 (Oreo) o superior, 2 GB de memoria RAM y conexión a Internet activa.
 - **Navegador Web**: Google Chrome 110+, Mozilla Firefox 110+, Safari 16+ o Microsoft Edge.
 - **Conectividad**: Acceso HTTPS estándar con soporte para WebSocket.
@@ -56,38 +53,38 @@ Los documentos de referencia técnica se encuentran disponibles en la carpeta [`
 ## 📊 Planes de Suscripción
 
 | Plan | Precio | Solicitudes/Hora | Ejecución Código | Búsqueda Web |
-|------|--------|------------------|------------------|--------------|
+| :--- | :--- | :--- | :---: | :---: |
 | **Free** | Gratis | 10 | ✅ (3s) | ✅ |
 | **Pro** | $15 USDT/mes | 100 | ✅ (5s) | ✅ |
 | **Max** | $29 USDT/mes | 1,000 | ✅ (10s) | ✅ |
 
-Pagos mediante USDT BEP20 en Binance Smart Chain.
+*Pagos mediante USDT BEP20 en Binance Smart Chain.*
 
 ---
 
 ## 🌟 Stack Tecnológico
 
-**Frontend:**
+### Frontend:
 - React 19 + TypeScript
 - Vite (builder)
 - UI moderna y responsiva
 
-**Backend:**
+### Backend:
 - Express + Node.js
 - Google Cloud Run deployment
 - Rate limiting por plan
 
-**IA & ML:**
+### IA & ML:
 - Google Gemini (Nova Core 2.1, Max Engineering 4.5)
 - Groq Llama 3.3 70B (Omniscient 3.0)
 - Tavily AI Search
 
-**Blockchain & Pagos:**
+### Blockchain & Pagos:
 - USDT BEP20 (Binance Smart Chain)
 - Etherscan API verification
 - Suscripciones criptográficas
 
-**Seguridad:**
+### Seguridad:
 - JWT Authentication
 - GDPR/CCPA Compliant
 - Encriptación end-to-end
@@ -98,7 +95,7 @@ Pagos mediante USDT BEP20 en Binance Smart Chain.
 ## 🔗 Enlaces Importantes y Contacto
 
 - 🌐 **Sitio Web Oficial**: [https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
-- 📥 **Descargar KODI**: [Acceder a la Plataforma / Descarga](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
+- 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHub](https://github.com/jesusmoralesrodriguez925-spec/epoch-ai/releases/tag/KODI)
 - 📧 **Email**: [epochai210@gmail.com](mailto:epochai210@gmail.com)
 - 🏢 **Empresa**: Epoch
 - 👤 **Fundador y Creador**: Jesús Morales Rodriguez
@@ -107,12 +104,12 @@ Pagos mediante USDT BEP20 en Binance Smart Chain.
 
 ## 📄 Licencia y Autoría
 
-Este proyecto está bajo licencia **MIT**. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este proyecto está bajo licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
 
-**Desarrollado por**: Jesús Morales Rodriguez  
-**Empresa**: Epoch (Startup Digital)  
-**Año de fundación**: 2026  
-**Estado**: MVP v1.0 - Fase de expansión
+- **Desarrollado por**: Jesús Morales Rodriguez
+- **Empresa**: Epoch (Startup Digital)
+- **Año de fundación**: 2026
+- **Estado**: MVP v1.0 - Fase de expansión
 
 ---
 
