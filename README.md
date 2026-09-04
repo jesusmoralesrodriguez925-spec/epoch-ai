@@ -12,13 +12,14 @@ Bienvenido al centro oficial de documentación técnica y de usuario de **KODI A
 
 ## 🧭 Índice de Documentación
 
-1. [📖 README.md](./docs/README.md) - Portada, visión general y accesos directos.
-2. [🌐 OVERVIEW.md](./docs/OVERVIEW.md) - ¿Qué es KODI?, misión, visión y ventajas competitivas.
-3. [🚀 GETTING_STARTED.md](./docs/GETTING_STARTED.md) - Guía de inicio rápido, instalación y primeros pasos.
-4. [🧠 MODELS.md](./docs/MODELS.md) - Especificaciones de Nova Core 2.1, Omniscient 3.0 y Max Engineering 4.5.
-5. [🏗️ ARCHITECTURE.md](./docs/ARCHITECTURE.md) - Arquitectura técnica, React 19, backend Express y microservicios.
-6. [🔌 API.md](./docs/API.md) - Referencia de endpoints REST, esquemas de payload y autenticación.
-7. [🛡️ SECURITY.md](./docs/SECURITY.md) - Políticas de privacidad, GDPR/CCPA, retención y borrado en 48 horas.
+Accede a los documentos de referencia técnica de KODI AI Studio:
+
+1. [🌐 OVERVIEW.md](./OVERVIEW.md) - ¿Qué es KODI?, misión, visión y ventajas competitivas.
+2. [🚀 GETTING_STARTED.md](./GETTING_STARTED.md) - Guía de inicio rápido, instalación y primeros pasos.
+3. [🧠 MODELS.md](./MODELS.md) - Especificaciones de Nova Core 2.1, Omniscient 3.0 y Max Engineering 4.5.
+4. [🏗️ ARCHITECTURE.md](./ARCHITECTURE.md) - Arquitectura técnica, React 19, backend Express y microservicios.
+5. [🔌 API.md](./API.md) - Referencia de endpoints REST, esquemas de payload y autenticación.
+6. [🛡️ SECURITY.md](./SECURITY.md) - Políticas de privacidad, GDPR/CCPA, retención y borrado en 48 horas.
 
 ---
 
