@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jesusmoralesrodriguez925-spec.github.io/kodi-ai/sitemap.xml
