@@ -58,7 +58,7 @@ KODI AI Studio opera en estricta conformidad con el **Reglamento General de Prot
 Si descubres una posible vulnerabilidad de seguridad o deseas ejercer tus derechos legales de acceso o eliminación de datos:
 
 - **Creador y Desarrollador**: Jesús Morales Rodriguez  
-- **Email de Contacto**: [support@kodi.ai](mailto:support@kodi.ai) / [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)  
+- **Email de Contacto**: [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)  
 - **Plataforma**: KODI AI Studio v1.0  
 - **Respuesta de Emergencia**: Plazo máximo de atención de incidentes de seguridad: 24 horas.
 
