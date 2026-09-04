@@ -1,14 +1,3 @@
----
-
-### 📄 3. `MODELS.md`
-
-```markdown
-# MODELS: Especificación y Guía de Modelos KODI
-
-KODI AI Studio incorpora tres arquitecturas complementarias diseñadas para ofrecer un equilibrio óptimo entre velocidad de ejecución, profundidad de razonamiento y ventana de contexto masiva.
-
----
-
 ## 🔬 1. Catálogo Técnico de Modelos
 
 ### 1.1 KODI Nova Core 2.1
