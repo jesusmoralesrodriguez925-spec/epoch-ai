@@ -1,3 +1,18 @@
+---
+
+### 📄 6. `API.md`
+
+```markdown
+# API: Especificación de Endpoints REST de KODI AI Studio
+
+> **KODI AI Studio by Jesús Morales Rodriguez**  
+> **Producto**: KODI AI Studio v1.0  
+> **Creador**: Jesús Morales Rodriguez  
+
+La API de **KODI AI Studio** permite interactuar de manera programática con los motores de inferencia, el entorno de ejecución de código, la gestión de proyectos y la verificación de pagos criptográficos.
+
+---
+
 ## 🔒 1. Autenticación y Cabeceras
 
 Todas las solicitudes a los endpoints de la API deben incluir las siguientes cabeceras HTTP:
@@ -31,8 +46,8 @@ Procesa un mensaje o una conversación completa invocando el orquestador multi-m
   "useWebSearch": true,
   "attachments": []
 }
-Respuesta Exitosa (200 OK)
 
+Respuesta Exitosa (200 OK)
 {
   "text": "Para implementar un hook personalizado useDebounce en React 19...",
   "verifiedByTavily": true,
@@ -48,6 +63,7 @@ Respuesta Exitosa (200 OK)
   "planUsed": "pro",
   "durationMs": 285
 }
+
 2.2 Ejecución de Código en Sandbox
 POST /api/execute-code
 Ejecuta de forma aislada y segura fragmentos de código en lenguajes soportados (Python, JavaScript, Bash) en un entorno con límites estrictos de tiempo y memoria.
@@ -70,7 +86,7 @@ GET /api/workspace
 Recupera el árbol de archivos y el estado del espacio de trabajo del usuario.
 Respuesta Exitosa (200 OK)
 {
-  "workspaceId": "ws_epoch_98124",
+  "workspaceId": "ws_kodi_98124",
   "files": [
     { "path": "main.py", "sizeBytes": 1024, "updatedAt": "2026-09-03T16:00:00Z" },
     { "path": "types.ts", "sizeBytes": 2048, "updatedAt": "2026-09-03T16:10:00Z" }
@@ -103,3 +119,4 @@ Código	Mensaje	Causa
 429 Too Many Requests	Rate limit exceeded for current plan	Se superó el número de solicitudes por hora permitidas en el plan.
 500 Internal Server Error	AI Provider transient error	Error temporal del proveedor de IA; se conmuta al clúster de respaldo.
 ⬅️ Anterior: Arquitectura Técnica • Siguiente: Seguridad, Privacidad y Términos ➔
+
