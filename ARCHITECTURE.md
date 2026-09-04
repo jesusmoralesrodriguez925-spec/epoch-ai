@@ -1,14 +1,3 @@
----
-
-### 📄 4. `ARCHITECTURE.md`
-
-```markdown
-# ARCHITECTURE: Arquitectura Técnica de KODI AI Studio
-
-KODI AI Studio está concebido bajo una arquitectura cliente-servidor desacoplada, reactiva y resiliente ante fallos, garantizando alta disponibilidad, baja latencia y máxima seguridad en el manejo de credenciales.
-
----
-
 ## 🏛️ 1. Diagrama General del Sistema
 
 ```text
