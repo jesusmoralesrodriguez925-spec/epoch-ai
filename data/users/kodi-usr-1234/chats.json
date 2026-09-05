@@ -1,0 +1,13 @@
+[
+  {
+    "id": "chat_1",
+    "title": "Chat de prueba",
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": "Hola"
+      }
+    ]
+  }
+]

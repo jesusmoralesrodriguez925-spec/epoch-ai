@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 720" width="540" height="720">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0d14"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161722"/>
+      <stop offset="100%" stop-color="#0f1018"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="540" height="720" fill="url(#bg)"/>
+  
+  <!-- Header Bar -->
+  <rect x="20" y="30" width="500" height="55" rx="14" fill="#12131c" stroke="#262838" stroke-width="1.5"/>
+  <circle cx="50" cy="57" r="14" fill="url(#cyanGrad)"/>
+  <text x="75" y="63" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#ffffff" letter-spacing="1.5">KODI AI</text>
+  <rect x="420" y="44" width="80" height="26" rx="6" fill="#1e202e"/>
+  <text x="435" y="61" font-family="sans-serif" font-size="11" font-weight="600" fill="#22d3ee">PRO V6.4</text>
+  
+  <!-- Code & Agent Card -->
+  <rect x="20" y="105" width="500" height="340" rx="16" fill="url(#cardBg)" stroke="#222436" stroke-width="1.5"/>
+  <circle cx="45" cy="130" r="5" fill="#ef4444"/>
+  <circle cx="62" cy="130" r="5" fill="#f59e0b"/>
+  <circle cx="79" cy="130" r="5" fill="#10b981"/>
+  <text x="105" y="134" font-family="monospace" font-size="12" fill="#71717a">main.tsx — Autonomous Agent</text>
+  
+  <rect x="40" y="155" width="460" height="1" fill="#222436"/>
+  
+  <text x="40" y="185" font-family="monospace" font-size="13" fill="#06b6d4">import</text>
+  <text x="95" y="185" font-family="monospace" font-size="13" fill="#e4e4e7">{ KodiAgent, GeminiPro } from '@kodi/ai';</text>
+  
+  <text x="40" y="215" font-family="monospace" font-size="13" fill="#a855f7">const</text>
+  <text x="85" y="215" font-family="monospace" font-size="13" fill="#e4e4e7">agent = new KodiAgent({ autonomous: true });</text>
+  
+  <text x="40" y="250" font-family="monospace" font-size="13" fill="#71717a">// Multi-file execution &amp; code generation</text>
+  <text x="40" y="275" font-family="monospace" font-size="13" fill="#3b82f6">await</text>
+  <text x="85" y="275" font-family="monospace" font-size="13" fill="#e4e4e7">agent.buildFullStackApp({</text>
+  <text x="60" y="300" font-family="monospace" font-size="13" fill="#10b981">framework: 'react-vite',</text>
+  <text x="60" y="325" font-family="monospace" font-size="13" fill="#10b981">database: 'firestore',</text>
+  <text x="60" y="350" font-family="monospace" font-size="13" fill="#10b981">speed: 'ultra-low-latency'</text>
+  <text x="40" y="375" font-family="monospace" font-size="13" fill="#e4e4e7">});</text>
+  
+  <rect x="40" y="400" width="140" height="28" rx="6" fill="#06b6d4" opacity="0.15"/>
+  <text x="52" y="419" font-family="monospace" font-size="11" font-weight="600" fill="#22d3ee">✓ Compiled in 12ms</text>
+  
+  <!-- Interactive Prompt Bottom -->
+  <rect x="20" y="465" width="500" height="225" rx="16" fill="#12131c" stroke="#222436" stroke-width="1.5"/>
+  <text x="40" y="500" font-family="sans-serif" font-size="14" font-weight="700" fill="#ffffff">Terminal &amp; Chat</text>
+  <rect x="40" y="520" width="460" height="80" rx="10" fill="#090a0f" stroke="#1f2130"/>
+  <text x="55" y="550" font-family="sans-serif" font-size="13" fill="#a1a1aa">Crear backend con autenticación y base de datos...</text>
+  <rect x="40" y="615" width="220" height="42" rx="10" fill="url(#cyanGrad)"/>
+  <text x="80" y="641" font-family="sans-serif" font-size="13" font-weight="700" fill="#000000">Ejecutar Código ⚡</text>
+</svg>

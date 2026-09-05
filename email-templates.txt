@@ -1,0 +1,81 @@
+==============================================================================
+PLANTILLAS DE EMAIL TRANSACCIONAL Y LEGAL - KODI AI STUDIO
+==============================================================================
+
+------------------------------------------------------------------------------
+PLANTILLA 1: CONFIRMACIÓN DE SOLICITUD DE ELIMINACIÓN DE DATOS (RIGHT TO BE FORGOTTEN)
+------------------------------------------------------------------------------
+De: KODI Legal & Data Privacy <jesusmoralesrodriguez925@gmail.com>
+Para: {{USER_EMAIL}}
+Asunto: 🔒 Confirmación: Solicitud de Eliminación de Datos - KODI AI Studio
+
+Hola {{USER_NAME}},
+
+Hemos recibido tu solicitud formal de eliminación definitiva y completa de tus datos personales el {{REQUEST_TIMESTAMP}}.
+
+En un plazo improrrogable de 48 HORAS, todos tus datos vinculados serán purgados permanentemente de nuestros sistemas:
+- Perfil de usuario y credenciales de acceso.
+- Todos los proyectos, chats, mensajes y archivos almacenados en el workspace.
+- Historial de código ejecutado y métricas de rendimiento.
+- Registros de facturación y wallet (excepto hashes de transacción exigidos por auditoría legal/contable anonimizada).
+- Cierre irreversible de la cuenta.
+
+⚠️ ADVERTENCIA: Esta acción es completamente irreversible. No podremos recuperar ningún proyecto ni dato una vez finalizado el ciclo de 48 horas.
+
+Si NO realizaste esta solicitud o deseas cancelarla, dispones de 24 horas para revocarla respondiendo directamente a este correo o ingresando el siguiente código de seguridad en la plataforma:
+
+Código de revocación: {{CONFIRMATION_CODE}}
+
+Atentamente,
+KODI Legal & Privacy Governance Team
+jesusmoralesrodriguez925@gmail.com
+KODI AI Studio Enterprise
+
+
+------------------------------------------------------------------------------
+PLANTILLA 2: CERTIFICADO DE ELIMINACIÓN COMPLETADA DE DATOS
+------------------------------------------------------------------------------
+De: KODI Legal & Data Privacy <jesusmoralesrodriguez925@gmail.com>
+Para: {{USER_EMAIL}}
+Asunto: ✅ Certificado: Tus datos han sido eliminados permanentemente - KODI AI Studio
+
+Hola {{USER_NAME}},
+
+Te confirmamos formalmente que el proceso de purga y eliminación total de datos asociado a la cuenta {{USER_EMAIL}} ha concluido satisfactoriamente con fecha {{DELETION_TIMESTAMP}}.
+
+En cumplimiento estricto con el Artículo 17 del GDPR (Derecho de Supresión) y la ley CCPA:
+- Todos tus archivos, historiales y credenciales han sido destruidos de nuestras bases de datos primarias y cachés activas.
+- Tus identificadores personales han sido completamente desvinculados de cualquier registro estadístico anónimo.
+
+Identificador de Solicitud Purga: {{DELETION_RECEIPT_ID}}
+
+Gracias por haber utilizado KODI AI Studio.
+
+Atentamente,
+KODI Legal & Privacy Governance Team
+jesusmoralesrodriguez925@gmail.com
+
+
+------------------------------------------------------------------------------
+PLANTILLA 3: EXPORTACIÓN DE DATOS PERSONALES (GDPR DATA PORTABILITY)
+------------------------------------------------------------------------------
+De: KODI Data Export Service <jesusmoralesrodriguez925@gmail.com>
+Para: {{USER_EMAIL}}
+Asunto: 📦 Tu copia de exportación de datos está lista - KODI AI Studio
+
+Hola {{USER_NAME}},
+
+En respuesta a tu solicitud de portabilidad de datos conforme al Artículo 20 del GDPR / CCPA, hemos consolidado el paquete completo de tus datos personales y proyectos en formato estándar JSON.
+
+Puedes descargar tu archivo cifrado directamente desde tu panel de configuración o verificar el archivo adjunto en este envío.
+
+Resumen del paquete exportado:
+- Fecha de generación: {{EXPORT_TIMESTAMP}}
+- Registros de proyectos y chats incluidos: {{PROJECTS_COUNT}}
+- Tamaño del archivo JSON: {{ARCHIVE_SIZE}}
+
+Por razones de seguridad, si no solicitaste esta exportación, te recomendamos cambiar tus credenciales de acceso de inmediato.
+
+Atentamente,
+KODI Data Governance Team
+jesusmoralesrodriguez925@gmail.com

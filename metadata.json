@@ -1,0 +1,6 @@
+{
+  "name": "KODI AI",
+  "description": "KODI AI Studio - Plataforma de inteligencia artificial autónoma creada por Jesús Morales Rodriguez. Multi-modelo con Google Gemini, Groq y Tavily Search.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

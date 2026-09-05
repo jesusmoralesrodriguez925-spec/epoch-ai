@@ -1,0 +1,182 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    overflow-x: hidden;
+  }
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+/* ==========================================================================
+   PRISM.JS VIBRANT SYNTAX HIGHLIGHTING (VS Code / One Dark Pro Colors)
+   ========================================================================== */
+.prism-code-block,
+code[class*="language-"],
+pre[class*="language-"] {
+  font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* Base token color fallback */
+.token.plain,
+.token.text,
+code[class*="language-"] {
+  color: #abb2bf;
+}
+
+/* Comments & Documentation */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata,
+.prism-code-block .token.comment {
+  color: #7f848e !important;
+  font-style: italic !important;
+}
+
+/* Punctuation & Delimiters */
+.token.punctuation,
+.prism-code-block .token.punctuation {
+  color: #abb2bf !important;
+}
+
+/* Keywords, Controls, Storage, Imports, Async, Def, Class, Returns */
+.token.keyword,
+.token.atrule,
+.token.rule,
+.token.operator,
+.token.important,
+.token.keyword-def,
+.token.keyword-class,
+.token.keyword-async,
+.token.keyword-await,
+.token.keyword-return,
+.token.keyword-import,
+.token.keyword-from,
+.token.directive.keyword,
+.prism-code-block .token.keyword,
+.prism-code-block .token.operator {
+  color: #c678dd !important; /* Vibrant Violet / Magenta */
+  font-weight: 600 !important;
+}
+
+/* Macros & Preprocessor Directives (e.g. #include, #define, #!/bin/bash) */
+.token.macro,
+.token.macro.property,
+.token.directive-hash,
+.token.shebang,
+.prism-code-block .token.macro {
+  color: #c678dd !important;
+  font-weight: 600 !important;
+}
+
+/* Functions, Methods, Callables */
+.token.function,
+.token.function-name,
+.token.method,
+.token.function-variable,
+.prism-code-block .token.function {
+  color: #61afef !important; /* Vibrant Cyan / Electric Blue */
+  font-weight: 500 !important;
+}
+
+/* Strings, Characters, Template Literals, Triple Quoted Docstrings */
+.token.string,
+.token.char,
+.token.url,
+.token.triple-quoted-string,
+.token.string-interpolation,
+.token.template-string,
+.prism-code-block .token.string,
+.prism-code-block .token.triple-quoted-string {
+  color: #98c379 !important; /* Vivid Emerald / Green */
+}
+
+/* Decorators & Annotations (e.g. @app.route, @dataclass, @Component) */
+.token.decorator,
+.token.annotation,
+.prism-code-block .token.decorator {
+  color: #d19a66 !important; /* Bright Amber / Orange */
+  font-weight: 600 !important;
+}
+
+/* Numbers, Booleans, Constants */
+.token.number,
+.token.boolean,
+.token.constant,
+.token.symbol,
+.prism-code-block .token.number,
+.prism-code-block .token.boolean,
+.prism-code-block .token.constant {
+  color: #d19a66 !important; /* Bright Amber / Orange */
+  font-weight: 500 !important;
+}
+
+/* Properties, Attributes, Variables, Keys, Parameters */
+.token.property,
+.token.variable,
+.token.attr-name,
+.token.parameter,
+.token.key,
+.prism-code-block .token.property,
+.prism-code-block .token.variable,
+.prism-code-block .token.attr-name,
+.prism-code-block .token.parameter,
+.prism-code-block .token.key {
+  color: #e5c07b !important; /* Golden Yellow / Coral */
+}
+
+/* Types, Classes, Interfaces, Built-ins */
+.token.class-name,
+.token.builtin,
+.token.namespace,
+.token.type,
+.token.package,
+.prism-code-block .token.class-name,
+.prism-code-block .token.builtin {
+  color: #4ec9b0 !important; /* Aquamarine / Mint */
+  font-weight: 500 !important;
+}
+
+/* HTML / JSX Tags */
+.token.tag,
+.token.entity,
+.prism-code-block .token.tag {
+  color: #e06c75 !important; /* Crimson / Coral Red */
+}
+
+/* Regex, Selectors, Inserted */
+.token.regex,
+.token.selector,
+.token.inserted,
+.prism-code-block .token.regex {
+  color: #56b6c2 !important; /* Teal */
+}
+
+.token.deleted,
+.prism-code-block .token.deleted {
+  color: #e06c75 !important;
+  background-color: rgba(224, 108, 117, 0.15) !important;
+}
+

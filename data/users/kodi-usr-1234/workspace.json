@@ -1,0 +1,9 @@
+[
+  {
+    "id": "f1",
+    "name": "main.py",
+    "type": "file",
+    "content": "print(\"hello\")",
+    "language": "python"
+  }
+]

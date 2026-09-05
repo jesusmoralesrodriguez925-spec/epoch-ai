@@ -1,0 +1,24 @@
+🤖 AVISO DE INTELIGENCIA ARTIFICIAL (CUMPLIMIENTO EU AI ACT & FTC)
+==============================================================================
+KODI AI STUDIO - AUTONOMOUS ENGINEERING CORE
+Versión: 6.4.0
+Fecha de Emisión: 29 de Agosto de 2026
+
+1. DECLARACIÓN DE USO DE IA:
+Este servicio utiliza sistemas avanzados de Inteligencia Artificial (IA) generativa y motores de inferencia probabilística.
+
+2. MODELOS Y PROVEEDORES INTEGRADOS:
+- Google Gemini 3.7 / 2.5 (Procesamiento de lenguaje natural, razonamiento arquitectónico y generación de código de alta fidelidad).
+- Groq Inc. / Llama 3.3 70B Versatile (Inferencia de ejecución ultrarrápida para optimización y análisis de código).
+- Tavily AI Technologies (Motor de búsqueda autónoma y recuperación técnica en tiempo real).
+
+3. DESCARGO DE RESPONSABILIDAD TÉCNICO:
+- La Inteligencia Artificial es una herramienta asistiva y predictiva que puede generar información inexacta, código desactualizado, errores lógicos o vulnerabilidades de seguridad ("alucinaciones").
+- KODI AI Studio y sus operadores NO asumen responsabilidad legal ni técnica por:
+  a) Fallas, bugs o brechas de seguridad en código generado por los modelos de IA.
+  b) Resultados de búsqueda web o información fáctica desactualizada.
+  c) Daños económicos, caídas de servidores o pérdidas de datos derivadas de la puesta en producción de código no auditado.
+
+4. RESPONSABILIDAD DEL DESARROLLADOR:
+TÚ ERES EL ÚNICO RESPONSABLE de revisar, auditar, compilar, ejecutar pruebas unitarias y verificar la seguridad de todo artefacto o script antes de desplegarlo en cualquier entorno real o comercial.
+==============================================================================

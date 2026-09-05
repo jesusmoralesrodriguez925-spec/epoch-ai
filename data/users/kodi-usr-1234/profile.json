@@ -1,0 +1,9 @@
+{
+  "uid": "KODI-USR-1234",
+  "email": "test@example.com",
+  "displayName": "Test User",
+  "photoURL": "https://example.com/avatar.png",
+  "customSettings": {},
+  "planTier": "free",
+  "updatedAt": "2026-08-30T13:03:47.020Z"
+}
