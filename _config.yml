@@ -2,3 +2,13 @@ theme: jekyll-theme-cayman
 title: "Epoch - KODI AI Studio"
 description: "Inteligencia Artificial Accesible para Todos"
 show_downloads: false
+
+# SEO
+title: KODI AI Studio Documentation
+description: Documentación oficial de KODI AI Studio - Plataforma de inteligencia artificial autónoma
+url: https://jesusmoralesrodriguez925-spec.github.io/kodi-ai/
+author: Jesús Morales Rodriguez
+keywords: KODI, KODI AI, inteligencia artificial, documentation
+
+# Favicon
+favicon: /favicon.ico
