@@ -1,3 +1,4 @@
+README: Comienzo
 ---
 layout: default
 title: KODI AI Studio - Documentación
