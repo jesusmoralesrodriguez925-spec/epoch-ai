@@ -2,7 +2,9 @@ README: Comienzo
 ---
 layout: default
 title: KODI AI Studio - Documentación
+
 description: Documentación técnica y de usuario de KODI AI Studio, plataforma de inteligencia artificial autónoma creada por Jesús Morales Rodriguez
+
 keywords: KODI, KODI AI, KODI Documentación, IA, inteligencia artificial, machine learning
 ---
 
