@@ -1,3 +1,23 @@
+---
+layout: default
+title: KODI AI Studio - Documentación
+description: Documentación técnica y de usuario de KODI AI Studio, plataforma de inteligencia artificial autónoma creada por Jesús Morales Rodriguez
+keywords: KODI, KODI AI, KODI Documentación, IA, inteligencia artificial, machine learning
+---
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Documentación de KODI AI Studio - Plataforma de inteligencia artificial autónoma">
+<meta name="keywords" content="KODI, KODI AI, KODI Documentación, inteligencia artificial, machine learning, Jesús Morales Rodriguez">
+<meta name="author" content="Jesús Morales Rodriguez">
+<meta property="og:title" content="KODI AI Studio - Documentación">
+<meta property="og:description" content="Documentación técnica de KODI AI">
+<meta property="og:image" content="https://jesusmoralesrodriguez925-spec.github.io/kodi-ai-/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico">
+</head>
+
 # KODI AI Studio by Jesús Morales Rodriguez
 
 > **Slogan**: *"Inteligencia Artificial Accesible para Todos"*  
