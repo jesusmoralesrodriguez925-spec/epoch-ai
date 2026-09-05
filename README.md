@@ -61,7 +61,7 @@ Accede a los documentos de referencia técnica de KODI AI Studio:
 ## ⚡ Inicio Rápido
 
 ### Descargar KODI
-- 📱 **Aplicación Móvil / Web App**: [Descargar APK (Android)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Acceder a la Web App](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
+- 📱 **Aplicación Móvil / Web App**: [Descargar APK (Android)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Acceder a la Web App](https://bit.ly/kodi-ai-studio)
 
 ### Requisitos Mínimos
 - **Android**: Android 8.0 (Oreo) o superior, 2 GB de memoria RAM y conexión a Internet activa.
@@ -114,8 +114,10 @@ Accede a los documentos de referencia técnica de KODI AI Studio:
 
 ## 🔗 Enlaces Importantes y Contacto
 
-- 🌐 **Sitio Web Oficial**: [https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
-- 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHub] (https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/tag/KODI)
+- 🌐 **Sitio Web Oficial**: [https://bit.ly/kodi-ai-studio](https://bit.ly/kodi-ai-studio) *(Enlace personalizado de acceso directo)*
+- 🔗 **Servidor en la Nube**: [https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app)
+- 📚 **Documentación Técnica**: [https://jesusmoralesrodriguez925-spec.github.io/kodi-ai-/](https://jesusmoralesrodriguez925-spec.github.io/kodi-ai-/)
+- 📥 **Descargar KODI**: [Descargar APK (GitHub Release)](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/download/KODI/_KODI_AI_20119947.apk) • [Ver Release en GitHub](https://github.com/jesusmoralesrodriguez925-spec/kodi-ai-/releases/tag/KODI)
 - 📧 **Email**: [jesusmoralesrodriguez925@gmail.com](mailto:jesusmoralesrodriguez925@gmail.com)
 - 👤 **Creador**: Jesús Morales Rodriguez
 

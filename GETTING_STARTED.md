@@ -17,7 +17,7 @@ Aprende a configurar y comenzar a utilizar **KODI AI Studio v1.0** en cuestión 
 4. Inicia **KODI AI Studio** desde el cajón de aplicaciones de tu móvil.
 
 ### Opción B: Versión Web App (Navegador y Escritorio)
-1. Ingresa a la [Web App oficial de KODI](https://ais-pre-4p7rfw3msob3xodaa5kekw-187599177255.europe-west2.run.app).
+1. Ingresa a la [Web App oficial de KODI](https://bit.ly/kodi-ai-studio) (enlace directo: `https://bit.ly/kodi-ai-studio`).
 2. Como Progressive Web App (PWA), puedes pulsar el icono de instalación en la barra de direcciones de Google Chrome, Edge o Safari para agregarla como aplicación de escritorio nativa.
 
 ---
